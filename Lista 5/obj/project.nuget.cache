@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ojuWNGDpwQQ8zphfJ/+ZdHuruzevHlFFFq0en4tW3epOCFX7JvwNtHUHO1UxZGb2dXs6bWlsawq6R3gpbu+vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruanc\\Desktop\\Exercicio satim POO\\Lista 5\\Lista 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

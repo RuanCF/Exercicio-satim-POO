@@ -1,0 +1,25 @@
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\bin\Debug\net5.0-windows\Lista 5.exe
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\bin\Debug\net5.0-windows\Lista 5.deps.json
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\bin\Debug\net5.0-windows\Lista 5.runtimeconfig.json
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\bin\Debug\net5.0-windows\Lista 5.runtimeconfig.dev.json
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\bin\Debug\net5.0-windows\Lista 5.dll
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\bin\Debug\net5.0-windows\ref\Lista 5.dll
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\bin\Debug\net5.0-windows\Lista 5.pdb
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista 5.csproj.AssemblyReference.cache
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista_5.Form1.resources
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista 5.csproj.GenerateResource.cache
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista 5.AssemblyInfoInputs.cache
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista 5.AssemblyInfo.cs
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista 5.csproj.CoreCompileInputs.cache
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista 5.dll
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\ref\Lista 5.dll
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista 5.pdb
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista 5.genruntimeconfig.cache
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista_5.Exercicio_1.resources
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista_5.Exercicio_2.resources
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista_5.Exercicios_2.Circulo.resources
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista_5.Exercicios_2.quadrado.resources
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista_5.Exercicios_2.retangulo.resources
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista_5.Exercicios_2.Triangulo.resources
+C:\Users\ruanc\Desktop\Exercicio satim POO\Lista 5\Lista 5\obj\Debug\net5.0-windows\Lista_5.Exercicios_2.trapezio.resources
